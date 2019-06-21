@@ -1,6 +1,14 @@
 <resources>
-    <string name="app_name">Learning BLE</string>
-    <string name="go_button">Go</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="blue_button">Go To Blue Activity</string>
+
+    <string name="app_name"> </string>
+
+    //Button Names
+    <string name="post_button">POST</string>
+    <string name="get_button">GET</string>
+    <string name="put_button">PUT</string>
+    <string name="patch_button">PATCH</string>
+    <string name="delete_button">DELETE</string>
+
+    //TextView Names
+    <string name="page1_name">Todos API</string>
 </resources>
