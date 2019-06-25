@@ -11,7 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".DeleteActivity"></activity>
+        <activity android:name=".CreatePost"></activity>
+        <activity android:name=".DeleteActivity" />
         <activity android:name=".PatchActivity" />
         <activity android:name=".PutActivity" />
         <activity android:name=".GetActivity" />

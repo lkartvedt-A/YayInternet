@@ -1,9 +1,8 @@
 <resources>
 
     <string name="app_name"> </string>
+    <string name="plus_icon">Make New Post</string>
+    <string name="page1_name">All Posts</string>
+    <string name="save_button">Save</string>
 
-
-    //TextView Names
-    <string name="page1_name">/todos</string>
-
-    </resources>
+</resources>
